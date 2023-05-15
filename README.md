@@ -26,7 +26,7 @@ Folders -
 
 File Description - 
 1. best.pt - Weights file.
-2. yolo.py - Detection model file contain code of detecting animal in a input image as well as webcam.
+2. yolo.py - Detection model file contain code of opencv to detecting animal.
 3. Wild_Animal_Detection_YOLOv5.ipynb - Yolov5 model building.
 4. Siren_edit.wav - Siren music.
 5. requirments.txt - Contain all dependencies.
