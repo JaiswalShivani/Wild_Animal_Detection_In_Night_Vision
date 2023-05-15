@@ -1,6 +1,9 @@
 # Wild_Animal_Detection_In_Night_Vision_with_siren
 This project is an attempt to develop Wild Animal Detection (night vision) with siren using modern computer vision technology.It involved the inclusion of Yolov5.
 
+Download dataset drom the below link-
+https://app.roboflow.com/shivanijaiswal/wild_animal_detection-gqc2e/2
+
 Pre-requisites - 
 ●	Python
 ●	Basics of Deep Learning
@@ -25,8 +28,8 @@ Folders -
 2.	Create an account on roboflow then create a dataset on which we will upload the above mentioned folder.
 
 File Description - 
-1. best.pt - Weights file.
-2. yolo.py - Detection model file contain code of opencv to detecting animal.
+1. night_vision.pt - Weights file.
+2. yolo_alarm_final.py - Detection model file contain code of opencv to detecting animal.
 3. Wild_Animal_Detection_YOLOv5.ipynb - Yolov5 model building.
 4. Siren_edit.wav - Siren music.
 5. requirments.txt - Contain all dependencies.
