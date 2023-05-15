@@ -35,7 +35,7 @@ File Description -
 4. Siren_edit.wav - Siren music.
 5. requirments.txt - Contain all dependencies.
 6. Documentation - Contain detailed flow and process of whole project.Below is brief of flow.
-Brief Description - This project is an attempt to develop Wild Animal Detection (night vision) using modern computer vision technology.It involved the inclusion of Yolov5.
+
 
 
  
